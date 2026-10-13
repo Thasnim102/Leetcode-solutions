@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791898530036,
+  "updatedAt": 1791898634787,
   "devices": {
     "be45cb34-ec9e-402c-9533-ccf81167d5f6": {
-      "lastSeen": 1791898527781
+      "lastSeen": 1791898633518
     }
   },
   "problems": {
@@ -23,7 +23,25 @@
         "Database"
       ],
       "title": "Triangle Judgement",
-      "at": 1791898527781
+      "at": 1791898633518
+    },
+    "620": {
+      "attempts": 4,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "278 ms (Beats 60%)",
+      "date": "2026-10-13",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-13",
+      "folderName": "0620-Not-Boring-Movies",
+      "language": "MySQL",
+      "number": 620,
+      "slug": "not-boring-movies",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Not Boring Movies",
+      "at": 1791898633518
     },
     "1148": {
       "attempts": 1,
@@ -41,7 +59,7 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1791898527781
+      "at": 1791898633518
     }
   },
   "achievements": {
@@ -54,7 +72,7 @@
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 2
+    "pushes": 3
   },
   "identity": {
     "installId": "220d36da-5fc4-4d89-9cf6-fef6d335bbdb",
