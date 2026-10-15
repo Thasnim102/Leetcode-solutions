@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792053536634,
+  "updatedAt": 1792053728701,
   "devices": {
     "be45cb34-ec9e-402c-9533-ccf81167d5f6": {
-      "lastSeen": 1792053536105
+      "lastSeen": 1792053728054
     }
   },
   "problems": {
@@ -23,7 +23,7 @@
         "Database"
       ],
       "title": "Triangle Judgement",
-      "at": 1792053536105
+      "at": 1792053728054
     },
     "620": {
       "attempts": 4,
@@ -41,7 +41,7 @@
         "Database"
       ],
       "title": "Not Boring Movies",
-      "at": 1792053536105
+      "at": 1792053728054
     },
     "1148": {
       "attempts": 1,
@@ -59,7 +59,25 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1792053536105
+      "at": 1792053728054
+    },
+    "1527": {
+      "attempts": 6,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "557 ms (Beats 12%)",
+      "date": "2026-10-15",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-15",
+      "folderName": "1527-Patients-With-a-Condition",
+      "language": "MySQL",
+      "number": 1527,
+      "slug": "patients-with-a-condition",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Patients With a Condition",
+      "at": 1792053728054
     }
   },
   "achievements": {
@@ -68,11 +86,12 @@
   "sheets": {},
   "days": [
     "2026-10-10",
-    "2026-10-13"
+    "2026-10-13",
+    "2026-10-15"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 3
+    "pushes": 4
   },
   "identity": {
     "installId": "220d36da-5fc4-4d89-9cf6-fef6d335bbdb",
