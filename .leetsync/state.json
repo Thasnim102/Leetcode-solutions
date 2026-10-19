@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1792420814895,
+  "updatedAt": 1792420923108,
   "devices": {
     "be45cb34-ec9e-402c-9533-ccf81167d5f6": {
-      "lastSeen": 1792420814350
+      "lastSeen": 1792420922398
     }
   },
   "problems": {
@@ -23,7 +23,7 @@
         "Database"
       ],
       "title": "Triangle Judgement",
-      "at": 1792420814350
+      "at": 1792420922398
     },
     "620": {
       "attempts": 4,
@@ -41,7 +41,25 @@
         "Database"
       ],
       "title": "Not Boring Movies",
-      "at": 1792420814350
+      "at": 1792420922398
+    },
+    "627": {
+      "attempts": 1,
+      "bestMemory": "0B (Beats 100%)",
+      "bestRuntime": "282 ms (Beats 36%)",
+      "date": "2026-10-19",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-10-19",
+      "folderName": "0627-Swap-Sex-of-Employees",
+      "language": "MySQL",
+      "number": 627,
+      "slug": "swap-sex-of-employees",
+      "solutionCount": 1,
+      "tags": [
+        "Database"
+      ],
+      "title": "Swap Sex of Employees",
+      "at": 1792420922398
     },
     "1148": {
       "attempts": 1,
@@ -59,7 +77,7 @@
         "Database"
       ],
       "title": "Article Views I",
-      "at": 1792420814350
+      "at": 1792420922398
     },
     "1527": {
       "attempts": 6,
@@ -77,7 +95,7 @@
         "Database"
       ],
       "title": "Patients With a Condition",
-      "at": 1792420814350
+      "at": 1792420922398
     }
   },
   "achievements": {
@@ -87,11 +105,12 @@
   "days": [
     "2026-10-10",
     "2026-10-13",
-    "2026-10-15"
+    "2026-10-15",
+    "2026-10-19"
   ],
   "bests": {
     "longestStreak": 1,
-    "pushes": 4
+    "pushes": 5
   },
   "identity": {
     "installId": "220d36da-5fc4-4d89-9cf6-fef6d335bbdb",
